@@ -11,19 +11,19 @@ Este projeto possui funções que fazem cálculos usando fórmulas de cinemátic
 <h1 align="center" > Funcionalidades </h1>
 - `Cálculos com fórmulas de energia e relacionadas`: realiza cálculos com as fórmulas simples de energias cinética, potencial gravitacional, potencial elástica e mecânica a partir da disponibilização das variáveis necessárias para sua fórmula básica ou de variáveis que permitam chegar às necessárias para tais cálculos.
 
-   - `Cálculos de energias`: calcula as energias dos tipos acima.
+    - `Cálculos de energias`: calcula as energias dos tipos acima.
 
-   - `Cálculos de massa`: calcula a massa a partir das fórmulas básicas de energia ou de densidade.
+    - `Cálculos de massa`: calcula a massa a partir das fórmulas básicas de energia ou de densidade.
   
-   - `Cálculos de velocidade`: calcula a velocidade a partir da fórmula de energia cinética.
+    - `Cálculos de velocidade`: calcula a velocidade a partir da fórmula de energia cinética.
 
-   - `Cálculos de altura`: calcula a altura a partir da fórmula de energia potencial gravitacional.
+    - `Cálculos de altura`: calcula a altura a partir da fórmula de energia potencial gravitacional.
   
-   - `Cálculos de aceleração gravitacional`: calcula a aceleração gravitacional a partir da fórmula de energia potencial        gravitacional.
+    - `Cálculos de aceleração gravitacional`: calcula a aceleração gravitacional a partir da fórmula de energia potencial        gravitacional.
   
-   - `Cálculos de constante elástica`: calcula a constante elástica a partir da fórmula de energia potencial elástica ou de     força elástica.
+    - `Cálculos de constante elástica`: calcula a constante elástica a partir da fórmula de energia potencial elástica ou de     força elástica.
   
-   - `Cálculos de elongação`: calcula a elongação a partir da fórmula de energia potencial elástica ou de força elástica ou de  diferença entre os comprimentos final e inicial.
+    - `Cálculos de elongação`: calcula a elongação a partir da fórmula de energia potencial elástica ou de força elástica ou de  diferença entre os comprimentos final e inicial.
 
 -  `Cálculos com fórmulas de força elástica`: realiza cálculos com a fórmula simples de força elástica a partir da disponibilização das variáveis necessárias para sua fórmula básica ou de variáveis que permitam chegar às necessárias para tais cálculos.
   
