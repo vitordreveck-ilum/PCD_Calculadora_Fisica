@@ -5,6 +5,8 @@
 
 ![Badge -em Desenvolvimento-](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Descrição do projeto...
+<h1 align="center" > Descrição </h1>
+Este projeto possui funções que fazem cálculos usando fórmulas de cinemática e dinâmica, bem como plota alguns gráficos dessas mesmas áreas da física. Pelo grau de profundidade e acessibilidade desse programa, ele se destina preferencialmente a alunos de ensino médio. Possui funções para cálculos com fórmulas de energia, polias e força elástica. Além disso há outras funções para plotagem de gráficos de Movimento Retilíneo Uniforme (MRU) — função horária das posições (posição por tempo) e velocidade média — e Movimento Retilíneo Uniformemente Variado (MRUV) — função horária das posições (posição por tempo) e função horária das velocidades (velocidade por tempo). O programa apresenta ainda uma interface intuitiva para que até mesmo o usuário leigo seja capaz de utilizar o programa através de menus.
 
+<h1 align="center" > Funcionalidades </h1>
 
