@@ -19,9 +19,9 @@ Este projeto possui funções que fazem cálculos usando fórmulas de cinemátic
 
     - `Cálculos de altura`: calcula a altura a partir da fórmula de energia potencial gravitacional.
   
-    - `Cálculos de aceleração gravitacional`: calcula a aceleração gravitacional a partir da fórmula de energia potencial        gravitacional.
+    - `Cálculos de aceleração gravitacional`: calcula a aceleração gravitacional a partir da fórmula de energia potencial gravitacional.
   
-    - `Cálculos de constante elástica`: calcula a constante elástica a partir da fórmula de energia potencial elástica ou de     força elástica.
+    - `Cálculos de constante elástica`: calcula a constante elástica a partir da fórmula de energia potencial elástica ou de força elástica.
   
     - `Cálculos de elongação`: calcula a elongação a partir da fórmula de energia potencial elástica ou de força elástica ou de  diferença entre os comprimentos final e inicial.
 
