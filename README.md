@@ -42,4 +42,4 @@ Desenvolvedores:
 
 [<img loading="lazy" src="" width=115><br><sub>Eloisa Souza</sub>](https://github.com/Eloisa-Souza) |  
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub>Rafaela Beatriz</sub>](https://github.com/Rafaela-Luz-Ilum) |
-[<img loading="lazy" src="" width=115><br><sub>Vitor Gabriel</sub>](https://github.com/vitordreveck-ilum)
+[<img loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/cb208be7dd3f15c6831d98c1a36b441c.jpg" width=115><br><sub>Vitor Gabriel</sub>](https://github.com/vitordreveck-ilum)
