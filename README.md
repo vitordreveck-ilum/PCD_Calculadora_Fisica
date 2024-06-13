@@ -40,6 +40,6 @@ Este projeto possui funções que fazem cálculos usando fórmulas de cinemátic
 
 Desenvolvedores:
 
-[<img loading="lazy" src="" width=115><br><sub>Eloisa Souza</sub>](https://github.com/Eloisa-Souza) |  
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425341?s=400&u=27f1f6f0257dfea068b3b763758914d077f15952&v=4" width=115><br><sub>Eloisa Souza</sub>](https://github.com/Eloisa-Souza) |  
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub>Rafaela Beatriz</sub>](https://github.com/Rafaela-Luz-Ilum) |
-[<img loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/cb208be7dd3f15c6831d98c1a36b441c.jpg" width=115><br><sub>Vitor Gabriel</sub>](https://github.com/vitordreveck-ilum)
+[<img loading="lazy" src="" width=115><br><sub>Vitor Gabriel</sub>](https://github.com/vitordreveck-ilum)
