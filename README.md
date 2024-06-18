@@ -56,7 +56,8 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 
 - ![jupyter logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/76963772-85cd-4054-b298-da325422258e)
 
-- `Messletters`
+- ![messletters logo](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/a4a80566-549f-4dce-b1d8-d43d68f9efc0)
+
   
 - ![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/d0c003e8-6edb-47cd-b4ac-bb8df67d06fa)
   
