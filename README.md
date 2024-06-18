@@ -44,5 +44,5 @@ Desenvolvedores:
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub>Rafaela Beatriz</sub>](https://github.com/Rafaela-Luz-Ilum) |  
 [<img loading="lazy" src="" width=115><br><sub>Vitor Gabriel</sub>](https://github.com/vitordreveck-ilum) | 
 
-[<img loading="lazy" src="" width=115><br><sub>Lívia Xavier</sub>](https://github.com/liviaxavierr) 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425052?v=4" width=115><br><sub>Lívia Xavier</sub>](https://github.com/liviaxavierr) 
 
