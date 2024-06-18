@@ -45,8 +45,9 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 
 <h1 align="center"> Tecnologias utilizadas </h1>
 
-- `Colab`
+- `Google Colab`
 - `Jupyter`
+- `Messletters`
 - `Pandas`
 - `Matplotlib`
 - `Math`
