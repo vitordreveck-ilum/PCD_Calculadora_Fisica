@@ -51,20 +51,17 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 
 <h1 align="center"> Tecnologias utilizadas </h1>
 
-- `Google Colab`
-- ![logo colab (certo)](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/85415b70-f3f6-4f3a-a9e6-fddf60a02da9)
+- ![colab](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/5d3f94fe-a409-47ba-a735-da211c2a51e9)
 
-- ![jupyter logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/76963772-85cd-4054-b298-da325422258e)
+- ![jupyter](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/b10773f7-5436-4ab3-ab55-8426c84b01b7)
 
 - ![messletters logo](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/a4a80566-549f-4dce-b1d8-d43d68f9efc0)
-
   
-- ![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/d0c003e8-6edb-47cd-b4ac-bb8df67d06fa)
+- ![pandas](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/06066d68-ff3c-47b5-b612-b547116295ac)
   
-- ![logo matplotlib png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/52fce812-15f2-48e7-b731-de7d8c90f61f)
+- ![math](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/1252d0c6-a324-4587-952a-2a030c4d71b8)
 
-- ![math logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/784a2fcc-1f84-4511-ab23-b2b7e813632c)
-- ![matplotlib](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/43bafed8-584d-4fba-b462-23c13be20d80)
+- ![matplotlib](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/c0a1520d-e29c-41ec-a855-3ce7885c7f2f)
 
 
 
