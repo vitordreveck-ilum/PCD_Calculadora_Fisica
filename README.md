@@ -52,7 +52,8 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 - `Google Colab`
 - `Jupyter`
 - `Messletters`
-- `Pandas`
+- `Pandas` ![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/47badaa9-1b65-40df-9bc4-d3ed4260d059)
+
 - `Matplotlib`
 - `Math`
 
