@@ -38,6 +38,11 @@ Este projeto possui funções que fazem cálculos usando fórmulas de cinemátic
 
 - `Plotagem de gráficos de função horária das velocidades`: calcula as velocidades a partir da função horária das velocidades para um dado intervalo de tempo e plota o gráfico da função horária das velocidades.
 
+
+<h1 align="center" > Manual do usuário </h1>
+
+Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, logo depois, em "run all". Após isso, no final do programa aparecerá uma interface intuitiva, por meio da qual acontecerá a interação entre o usuário e o programa. Responda ao menu conforme solicitado para que o programa dê as respostas buscadas.
+
 <h1 align="center"> Tecnologias utilizadas </h1>
 
 <h1 align="center"> Desenvolvedores </h1>
