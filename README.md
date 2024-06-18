@@ -52,8 +52,7 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 - `Google Colab`
 - `Jupyter`
 - `Messletters`
-- `Pandas` ![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/47badaa9-1b65-40df-9bc4-d3ed4260d059)
-
+- `Pandas`![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/97663f71-7f85-4c44-aa76-ee62ff7ca214)
 - `Matplotlib`
 - `Math`
 
