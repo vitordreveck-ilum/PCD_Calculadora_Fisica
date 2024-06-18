@@ -54,3 +54,5 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425052?v=4" width=115><br><sub>Lívia Xavier</sub>](https://github.com/liviaxavierr) 
 
 <h1 align="center"> Referências </h1>
+
+OPENAI. ChatGPT: modelo de linguagem baseado na arquitetura GPT-4. Disponível em: https://www.openai.com/chatgpt. Acesso em: 18 jun. 2024.
