@@ -6,6 +6,7 @@
 ![Badge -em Desenvolvimento-](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Disciplina: Práticas em Ciências de Dados - Bacharelado em Ciência e Tecnologia - Ilum (CNPEM) - 2024.1
+
 Professor: Leandro Nascimento Lemos
 
 <h1 align="center" > Descrição </h1>
