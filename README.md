@@ -54,14 +54,12 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 - `Google Colab`
 - ![logo colab (certo)](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/85415b70-f3f6-4f3a-a9e6-fddf60a02da9)
 
-
-- ![jupyter logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/b77ffb39-a0b6-4e83-a67c-f353e72d1326)
+- ![jupyter logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/76963772-85cd-4054-b298-da325422258e)
 
 - `Messletters`
   
 - ![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/d0c003e8-6edb-47cd-b4ac-bb8df67d06fa)
   
-- `Matplotlib`
 - ![logo matplotlib png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/52fce812-15f2-48e7-b731-de7d8c90f61f)
 
 - ![math logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/784a2fcc-1f84-4511-ab23-b2b7e813632c)
