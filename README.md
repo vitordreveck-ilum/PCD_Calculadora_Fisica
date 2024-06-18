@@ -46,6 +46,10 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 <h1 align="center"> Tecnologias utilizadas </h1>
 
 - `Colab`
+- `Jupyter`
+- `Pandas`
+- `Matplotlib`
+- `Math`
 
 <h1 align="center"> Desenvolvedores </h1>
 
