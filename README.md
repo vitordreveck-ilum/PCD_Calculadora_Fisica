@@ -64,6 +64,8 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 - ![logo matplotlib png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/52fce812-15f2-48e7-b731-de7d8c90f61f)
 
 - ![math logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/784a2fcc-1f84-4511-ab23-b2b7e813632c)
+- ![matplotlib](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/43bafed8-584d-4fba-b462-23c13be20d80)
+
 
 
 <h1 align="center"> Desenvolvedores </h1>
