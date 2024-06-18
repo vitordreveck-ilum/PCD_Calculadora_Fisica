@@ -38,7 +38,7 @@ Este projeto possui funções que fazem cálculos usando fórmulas de cinemátic
 
 - `Plotagem de gráficos de função horária das velocidades`: calcula as velocidades a partir da função horária das velocidades para um dado intervalo de tempo e plota o gráfico da função horária das velocidades.
 
-Desenvolvedores:
+<h1 align="center"> Desenvolvedores </h1>
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425341?s=400&u=27f1f6f0257dfea068b3b763758914d077f15952&v=4" width=115><br><sub>Eloisa Souza</sub>](https://github.com/Eloisa-Souza) |  
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub>Rafaela Beatriz</sub>](https://github.com/Rafaela-Luz-Ilum) |  
