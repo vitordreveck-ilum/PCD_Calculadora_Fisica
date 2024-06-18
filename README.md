@@ -52,12 +52,20 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 <h1 align="center"> Tecnologias utilizadas </h1>
 
 - `Google Colab`
-- `Jupyter`
+- ![logo colab (certo)](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/85415b70-f3f6-4f3a-a9e6-fddf60a02da9)
+
+
+- ![jupyter logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/b77ffb39-a0b6-4e83-a67c-f353e72d1326)
+
 - `Messletters`
-- `Pandas`
-![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/d0c003e8-6edb-47cd-b4ac-bb8df67d06fa)
+  
+- ![Pandas_logo svg](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/d0c003e8-6edb-47cd-b4ac-bb8df67d06fa)
+  
 - `Matplotlib`
-- `Math`
+- ![logo matplotlib png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/52fce812-15f2-48e7-b731-de7d8c90f61f)
+
+- ![math logo png](https://github.com/vitordreveck-ilum/PCD_Calculadora_Fisica/assets/172425341/784a2fcc-1f84-4511-ab23-b2b7e813632c)
+
 
 <h1 align="center"> Desenvolvedores </h1>
 
