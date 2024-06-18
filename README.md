@@ -37,6 +37,8 @@ Este projeto possui funções que fazem cálculos usando fórmulas de cinemátic
    - `Cálculos de constante elástica`: calcula a constante elástica a partir da fórmula de energia potencial elástica ou de     força elástica.
   
    - `Cálculos de elongação`: calcula a elongação a partir da fórmula de energia potencial elástica ou de força elástica ou de  diferença entre os comprimentos final e inicial.
+ 
+-  `Cálculo de velocidade média`: calcula a velocidade média com a fórmula simples de velocidade média a partir da disponibilização das variáveis necessárias para sua fórmula básica.
 
 - `Plotagem de gráficos de função horária dos espaços`: calcula as posições a partir da função horária dos espaços para um dado intervalo de tempo e plota o gráfico da função horária dos espaços.
 
