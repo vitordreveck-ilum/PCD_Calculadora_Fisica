@@ -45,6 +45,8 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 
 <h1 align="center"> Tecnologias utilizadas </h1>
 
+- `Colab`
+
 <h1 align="center"> Desenvolvedores </h1>
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425341?s=400&u=27f1f6f0257dfea068b3b763758914d077f15952&v=4" width=115><br><sub>Eloisa Souza</sub>](https://github.com/Eloisa-Souza) |  
