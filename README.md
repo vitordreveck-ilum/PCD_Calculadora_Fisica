@@ -45,7 +45,7 @@ Abra um notebook Jupyter e, nas opções do topo da tela, clique em "cells" e, l
 
 <h1 align="center"> Tecnologias utilizadas </h1>
 
-- `Google Colab`
+- `Google Colab` (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arnny&psig=AOvVaw0Uwo763ip5A3sRaIcYRhOd&ust=1718820182082000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCx3Kbe5YYDFQAAAAAdAAAAABAE)
 - `Jupyter`
 - `Messletters`
 - `Pandas`
