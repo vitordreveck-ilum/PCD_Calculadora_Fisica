@@ -69,12 +69,12 @@ Faça download do arquivo notebook_calculadora.ipynb e abra-o com Jupyter. Nas o
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425341?s=400&u=27f1f6f0257dfea068b3b763758914d077f15952&v=4" width=115><br><sub>Eloisa Souza</sub>](https://github.com/Eloisa-Souza) 
 
-Função horária da velocidade |  
+Função horária da velocidade, força elástica, constante elástica, deformação da mola |  
 
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425353?v=4" width=115><br><sub>Rafaela Beatriz</sub>](https://github.com/Rafaela-Luz-Ilum) 
 
-Função horária das posições |  
+Função horária das posições, energias |  
 
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/170521728?s=400&u=17680af6546b7ebf3dc411dcd17f0819455c5273&v=4" width=115><br><sub>Vitor Dreveck</sub>](https://github.com/vitordreveck-ilum) 
@@ -83,7 +83,7 @@ Interface |
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172425052?v=4" width=115><br><sub>Lívia Xavier</sub>](https://github.com/liviaxavierr) 
 
-Função horária das posições
+Função horária das posições, velocidade média
 
 <h1 align="center"> Referências </h1>
 
