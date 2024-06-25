@@ -88,4 +88,5 @@ Função horária das posições, velocidade média
 <h1 align="center"> Referências </h1>
 
 NUSSENZVEIG, H. Moysés. Curso de Física Básica - Vol. 1: Mecânica. 5. ed. São Paulo: Editora Blucher, 2002.
+
 OPENAI. ChatGPT: modelo de linguagem baseado na arquitetura GPT-4. Disponível em: https://www.openai.com/chatgpt. Acesso em: 18 jun. 2024.
